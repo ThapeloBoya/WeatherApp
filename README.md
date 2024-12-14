@@ -127,7 +127,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 👤 **Your Name**  
-- GitHub: [@yourusername](https://github.com/thapeloboya)
+- GitHub: [@thapeloboya](https://github.com/thapeloboya)
 - Email: blackpup05@gmail.com
 - LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/thapeloboya)
 

@@ -1,0 +1,60 @@
+/* Base Styles */
+.app {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin-top: 20px;
+}
+
+input, button {
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+button {
+  margin: 10px;
+}
+
+img {
+  width: 50px;
+  height: 50px;
+}
+
+h1 {
+  color: #333;
+}
+
+h2 {
+  color: #555;
+}
+
+h3 {
+  color: #777;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  padding: 5px;
+}
+
+.light {
+  background-color: #fff;
+  color: #000;
+}
+
+.dark {
+  background-color: #333;
+  color: #fff;
+}
+
+.dark input, .dark button {
+  background-color: #555;
+  color: #fff;
+}
+
+.dark h1, .dark h2, .dark h3 {
+  color: #fff;
+}

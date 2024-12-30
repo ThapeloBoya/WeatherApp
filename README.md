@@ -12,6 +12,8 @@ A simple weather app built with React that allows users to check the current wea
 
 ## Demo
 
+You can view the live demo of the app [here](https://weather-app-74wr.vercel.app/).
+
 ![Weather App Demo](public/weather-app-demo.png)
 
 ## Technologies Used

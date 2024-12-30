@@ -12,7 +12,7 @@ A simple weather app built with React that allows users to check the current wea
 
 ## Demo
 
-![Weather App Demo](public/images/weather-app-demo.png)
+![Weather App Demo](public/weather-app-demo.png)
 
 ## Technologies Used
 

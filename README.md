@@ -33,5 +33,5 @@ You can view the live demo of the app [here](https://weather-app-74wr.vercel.app
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/thapeloBoya/weather-app.git
 cd weather-app
